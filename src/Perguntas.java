@@ -48,113 +48,113 @@ public class Perguntas {
 
         // Questão 5
         questoes[4] = new Questao();
-        questoes[4].pergunta = "Qual é a posição de Harry Potter no time de Quadribol?";
-        questoes[4].opcaoA = "A) Batedor";
-        questoes[4].opcaoB = "B) Apanhador";
-        questoes[4].opcaoC = "C) Artilheiro";
-        questoes[4].opcaoD = "D) Goleiro";
-        questoes[4].opcaoE = "E) Nenhuma das opções";
-        questoes[4].correta = "B";
+        questoes[4].pergunta = "Qual gráfico é mais adequado para exibir a distribuição de frequências?*";
+        questoes[4].opcaoA = "a) Gráfico de barras";
+        questoes[4].opcaoB = "b) Gráfico de linhas";
+        questoes[4].opcaoC = "c) Histograma";
+        questoes[4].opcaoD = "d) Gráfico de dispersão";
+        questoes[4].opcaoE = "e) Gráfico de setores";
+        questoes[4].correta = "c";
 
         // Questão 6
         questoes[5] = new Questao();
-        questoes[5].pergunta = "Qual é o nome do pai de Draco Malfoy?";
-        questoes[5].opcaoA = "A) Lucius Malfoy";
-        questoes[5].opcaoB = "B) Severus Snape";
-        questoes[5].opcaoC = "C) Sirius Black";
-        questoes[5].opcaoD = "D) Remus Lupin";
-        questoes[5].opcaoE = "E) Arthur Weasley";
-        questoes[5].correta = "A";
+        questoes[5].pergunta = "Qual tipo de gráfico é mais indicado para comparar categorias diferentes?";
+        questoes[5].opcaoA = "a) Gráfico de pizza";
+        questoes[5].opcaoB = "b) Gráfico de dispersão";
+        questoes[5].opcaoC = "c) Gráfico de barras";
+        questoes[5].opcaoD = "d) Gráfico de linhas";
+        questoes[5].opcaoE = "e) Gráfico de radar";
+        questoes[5].correta = "c";
 
         // Questão 7
         questoes[6] = new Questao();
-        questoes[6].pergunta = "Qual é o nome do professor de Poções no primeiro ano de Harry?";
-        questoes[6].opcaoA = "A) Minerva McGonagall";
-        questoes[6].opcaoB = "B) Filius Flitwick";
-        questoes[6].opcaoC = "C) Severus Snape";
-        questoes[6].opcaoD = "D) Pomona Sprout";
-        questoes[6].opcaoE = "E) Gilderoy Lockhart";
-        questoes[6].correta = "C";
+        questoes[6].pergunta = "Em um gráfico de linhas, o que os pontos conectados representam?";
+        questoes[6].opcaoA = "a) Frequência";
+        questoes[6].opcaoB = "b) Valores categóricos";
+        questoes[6].opcaoC = "c) Mudança ao longo do tempo";
+        questoes[6].opcaoD = "d) Proporções";
+        questoes[6].opcaoE = "e) Comparação de dados";
+        questoes[6].correta = "c";
 
         // Questão 8
         questoes[7] = new Questao();
-        questoes[7].pergunta = "Qual é o nome do mapa que mostra todos os segredos de Hogwarts?";
-        questoes[7].opcaoA = "A) Mapa do Maroto";
-        questoes[7].opcaoB = "B) Mapa do Peregrino";
-        questoes[7].opcaoC = "C) Mapa do Explorador";
-        questoes[7].opcaoD = "D) Mapa do Viajante";
-        questoes[7].opcaoE = "E) Mapa do Aventureiro";
-        questoes[7].correta = "A";
+        questoes[7].pergunta = "Qual dos gráficos abaixo é mais adequado para mostrar proporções?";
+        questoes[7].opcaoA = "a) Gráfico de barras";
+        questoes[7].opcaoB = "b) Gráfico de pizza";
+        questoes[7].opcaoC = "c) Gráfico de linhas";
+        questoes[7].opcaoD = "d) Gráfico de radar";
+        questoes[7].opcaoE = "e) Gráfico de dispersão";
+        questoes[7].correta = "b";
 
         // Questão 9
         questoes[8] = new Questao();
-        questoes[8].pergunta = "Qual é o nome do banco dos bruxos?";
-        questoes[8].opcaoA = "A) Gringotes";
-        questoes[8].opcaoB = "B) Banco de Hogwarts";
-        questoes[8].opcaoC = "C) Banco de Hogsmeade";
-        questoes[8].opcaoD = "D) Banco de Diagon Alley";
-        questoes[8].opcaoE = "E) Banco de Beauxbatons";
-        questoes[8].correta = "A";
+        questoes[8].pergunta = "Um histograma é útil para exibir qual tipo de dados?";
+        questoes[8].opcaoA = "a) Dados contínuos";
+        questoes[8].opcaoB = "b) Dados categóricos";
+        questoes[8].opcaoC = "c) Proporções";
+        questoes[8].opcaoD = "d) Frequências";
+        questoes[8].opcaoE = "e) Relação entre variáveis";
+        questoes[8].correta = "d";
 
         // Questão 10
         questoes[9] = new Questao();
-        questoes[9].pergunta = "Qual é o nome do hipogrifo de Hagrid?";
-        questoes[9].opcaoA = "A) Bicuço";
-        questoes[9].opcaoB = "B) Norberto";
-        questoes[9].opcaoC = "C) Aragog";
-        questoes[9].opcaoD = "D) Fang";
-        questoes[9].opcaoE = "E) Fluffy";
-        questoes[9].correta = "A";
+        questoes[9].pergunta = "O que caracteriza um gráfico de dispersão?";
+        questoes[9].opcaoA = "a) Pontos conectados";
+        questoes[9].opcaoB = "b) Barras coloridas";
+        questoes[9].opcaoC = "c) Distribuição de dados";
+        questoes[9].opcaoD = "d) Comparação de categorias";
+        questoes[9].opcaoE = "e) Exibição de proporções";
+        questoes[9].correta = "e";
 
         // Questão 11
         questoes[10] = new Questao();
-        questoes[10].pergunta = "Qual é o nome do jornal dos bruxos?";
-        questoes[10].opcaoA = "A) O Profeta Diário";
-        questoes[10].opcaoB = "B) O Correio Coruja";
-        questoes[10].opcaoC = "C) O Diário de Hogwarts";
-        questoes[10].opcaoD = "D) O Jornal de Hogsmeade";
-        questoes[10].opcaoE = "E) O Jornal Bruxo";
-        questoes[10].correta = "A";
+        questoes[10].pergunta = "Qual tipo de gráfico pode ser usado para exibir a frequência acumulada?";
+        questoes[10].opcaoA = "a) Histograma";
+        questoes[10].opcaoB = "b) Gráfico de setores";
+        questoes[10].opcaoC = "c) Gráfico de linhas";
+        questoes[10].opcaoD = "d) Ogiva";
+        questoes[10].opcaoE = "e) Gráfico de dispersão";
+        questoes[10].correta = "d";
 
         // Questão 12
         questoes[11] = new Questao();
-        questoes[11].pergunta = "Qual é o nome do feitiço para desarmar o oponente?";
-        questoes[11].opcaoA = "A) Expelliarmus";
-        questoes[11].opcaoB = "B) Stupefy";
-        questoes[11].opcaoC = "C) Avada Kedavra";
-        questoes[11].opcaoD = "D) Crucio";
-        questoes[11].opcaoE = "E) Imperio";
-        questoes[11].correta = "A";
+        questoes[11].pergunta = "Em um gráfico de barras, o comprimento da barra indica:";
+        questoes[11].opcaoA = "a) A quantidade de dados";
+        questoes[11].opcaoB = "b) O valor da variável";
+        questoes[11].opcaoC = "c) A frequência";
+        questoes[11].opcaoD = "d) O número de categorias";
+        questoes[11].opcaoE = "e) A proporção";
+        questoes[11].correta = "b";
 
         // Questão 13
         questoes[12] = new Questao();
-        questoes[12].pergunta = "Qual é o nome do feitiço que conjura um patrono?";
-        questoes[12].opcaoA = "A) Expecto Patronum";
-        questoes[12].opcaoB = "B) Lumos";
-        questoes[12].opcaoC = "C) Wingardium Leviosa";
-        questoes[12].opcaoD = "D) Accio";
-        questoes[12].opcaoE = "E) Alohomora";
-        questoes[12].correta = "A";
+        questoes[12].pergunta = "Qual gráfico é mais adequado para exibir mudanças ao longo de um período contínuo?";
+        questoes[12].opcaoA = "a) Gráfico de pizza";
+        questoes[12].opcaoB = "b) Gráfico de linhas";
+        questoes[12].opcaoC = "c) Gráfico de barras";
+        questoes[12].opcaoD = "d) Gráfico de radar";
+        questoes[12].opcaoE = "e) Histograma";
+        questoes[12].correta = "b";
 
         // Questão 14
         questoes[13] = new Questao();
-        questoes[13].pergunta = "Qual é o nome do feitiço que abre portas trancadas?";
-        questoes[13].opcaoA = "A) Alohomora";
-        questoes[13].opcaoB = "B) Lumos";
-        questoes[13].opcaoC = "C) Wingardium Leviosa";
-        questoes[13].opcaoD = "D) Accio";
-        questoes[13].opcaoE = "E) Expecto Patronum";
-        questoes[13].correta = "A";
+        questoes[13].pergunta = "Um gráfico de setores (pizza) deve ser utilizado quando queremos:";
+        questoes[13].opcaoA = "a) Mostrar proporções de um total";
+        questoes[13].opcaoB = "b) Exibir dados temporais";
+        questoes[13].opcaoC = "c) Comparar distribuições";
+        questoes[13].opcaoD = "d) Mostrar relação entre variáveis";
+        questoes[13].opcaoE = "e) Exibir frequências acumuladas";
+        questoes[13].correta = "a";
 
         // Questão 15
         questoes[14] = new Questao();
-        questoes[14].pergunta = "Qual é o nome do feitiço que ilumina a ponta da varinha?";
-        questoes[14].opcaoA = "A) Lumos";
-        questoes[14].opcaoB = "B) Nox";
-        questoes[14].opcaoC = "C) Wingardium Leviosa";
-        questoes[14].opcaoD = "D) Accio";
-        questoes[14].opcaoE = "E) Expecto Patronum";
-        questoes[14].correta = "A";
+        questoes[14].pergunta = "Qual gráfico é mais indicado para mostrar tendências de dados ao longo do tempo?";
+        questoes[14].opcaoA = "a) Gráfico de barras";
+        questoes[14].opcaoB = "b) Gráfico de dispersão";
+        questoes[14].opcaoC = "c) Gráfico de linhas";
+        questoes[14].opcaoD = "d) Histograma";
+        questoes[14].opcaoE = "e) Gráfico de pizza";
+        questoes[14].correta = "c";
 
         // Lógica para responder às questões
         for (int i = 0; i < totalQuestoes; i++) {
