@@ -37,7 +37,7 @@ public class Questao {
                 resp.equalsIgnoreCase("D") || resp.equalsIgnoreCase("E")){
             return true;
         }
-        System.out.println("Resposta inválida! Digite opção A, B, C, D ou E. ");
+        System.out.println("Resposta inválida! Digite opção a, b, c, d ou e. ");
         System.out.println("");
         return false;
     }
