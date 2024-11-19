@@ -52,5 +52,4 @@ public class Questao {
         System.out.println(this.opcaoE);
         System.out.println();
     }
-
 }
