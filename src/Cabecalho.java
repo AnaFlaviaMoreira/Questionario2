@@ -7,5 +7,7 @@ public class Cabecalho {
         System.out.println("Bem vindo ao quiz de Gráficos!");
         System.out.println("Utilize para estudar para Estatística");
         System.out.println("Por favor, responda às perguntas com a letra correspondente a alterinativa, em mínusculo.");
+
+        Perguntas.main(new String[]{});
     }
 }
