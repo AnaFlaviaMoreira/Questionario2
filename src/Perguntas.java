@@ -152,7 +152,7 @@ public class Perguntas {
         questoes[14].opcaoA = "a) Gráfico de barras";
         questoes[14].opcaoB = "b) Gráfico de dispersão";
         questoes[14].opcaoC = "c) Gráfico de linhas";
-        questoes[14].opcaoD = "d) Histograma";
+        questoes[14].opcaoD = "d) Gráfico de Histograma";
         questoes[14].opcaoE = "e) Gráfico de pizza";
         questoes[14].correta = "c";
 
