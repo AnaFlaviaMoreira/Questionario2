@@ -3,7 +3,6 @@ public class Perguntas {
         int acertos = 0;
         int erros = 0;
         int totalQuestoes = 15;
-        Cabecalho.escrevacabecalho();
         Questao[] questoes = new Questao[totalQuestoes];
 
         // Questão 1
